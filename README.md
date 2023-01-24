@@ -4,7 +4,7 @@
 
 - 🔭 Recently completed a 10 week intensive **Data Science Bootcamp**
 - 👨‍💻 Latest project: [Outpainting](https://github.com/Osakwe1/Outpainting) *Designed a Generative Adversarial Network for image outpainting*
-- 📄 Know about my experiences on [linkedin](linkedin.com/in/krishinipatel)
+- 📄 Know about my experiences on [linkedin](https://www.linkedin.com/in/krishini-patel-415827122/)
 
 
 
