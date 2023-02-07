@@ -2,8 +2,11 @@
 ## A Data Scientist and Advisory Consultant
 ### An analytical thinker, looking to leverage excellent modelling and data analysis skills in a more data driven environment.
 
-- 🔭 Recently completed a 10 week intensive **Data Science Bootcamp**
+- ✏️ Recently completed a 10 week intensive **Data Science Bootcamp**
 - 👨‍💻 Latest project: [Outpainting](https://github.com/Osakwe1/Outpainting) *Designed a Generative Adversarial Network for image outpainting*
+- 💡 Other projects:
+  - [House Prices Prediction](https://github.com/krishinipatel/HousePricesChallenge) *Predicting the sales prices of houses*
+  - 
 - 📄 Know about my experiences on [linkedin](https://www.linkedin.com/in/krishini-patel-415827122/)
 
 
