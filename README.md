@@ -7,7 +7,7 @@
 - 💡 Other projects:
   - [House Prices Prediction](https://github.com/krishinipatel/HousePricesChallenge) *Predicting the sales prices of houses*
   - 
-- 📄 Know about my experiences on [linkedin](https://www.linkedin.com/in/krishini-patel)
+- 📄 Read more about my experience on [linkedin](https://www.linkedin.com/in/krishini-patel)
 
 
 
