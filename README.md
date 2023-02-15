@@ -6,7 +6,7 @@
 - 👨‍💻 Latest project: [Outpainting](https://github.com/Osakwe1/Outpainting) *Designed a Generative Adversarial Network for image outpainting*
 - 💡 Other projects:
   - [House Prices Prediction](https://github.com/krishinipatel/HousePricesChallenge) *Predicting the sales prices of houses*
-  - 
+  - [E-commerce Analysis](https://github.com/krishinipatel/Olist_eCommerce_Analysis) *Analysing customer satisfaction and order volume growth*
 - 📄 Read more about my experience on [linkedin](https://www.linkedin.com/in/krishini-patel)
 
 
